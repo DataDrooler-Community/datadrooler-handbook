@@ -39,99 +39,40 @@ If you wish to contribute to this repository, please raise a PR.
 
 ### Data Science Tools 
 
-1. Python
-   - Resource: [Python for Data Science Essential Training](https://wiki.python.org/moin/BeginnersGuide)
-
-2. R
-   - Resource: [R Programming Tutorial](https://www.datacamp.com/courses/free-introduction-to-r)
-
-3. Jupyter Notebooks
-   - Resource: [Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-
-4. Anaconda
-   - Resource: [Getting Started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
-
-5. scikit-learn
-   - Resource: [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-
-6. TensorFlow
-   - Resource: [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
-
-7. PyTorch
-   - Resource: [PyTorch Tutorials](https://pytorch.org/tutorials/)
-
-8. Keras
-   - Resource: [Keras Documentation](https://keras.io/getting_started/)
-
-9. Pandas
-   - Resource: [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-
-10. NumPy
-    - Resource: [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
+1. Python [Python for Data Science Essential Training](https://wiki.python.org/moin/BeginnersGuide)
+2. R [R Programming Tutorial](https://www.datacamp.com/courses/free-introduction-to-r)
+3. Jupyter Notebooks [Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+4. Anaconda [Getting Started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
+5. scikit-learn [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+6. TensorFlow [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+7. PyTorch [PyTorch Tutorials](https://pytorch.org/tutorials/)
+8. Keras [Keras Documentation](https://keras.io/getting_started/)
+9. Pandas [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+10. NumPy [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 
 ### Data Engineering Tools
 
-1. Apache Spark
-   - Resource: [Apache Spark Tutorial](https://spark.apache.org/docs/latest/quick-start.html)
-
-2. Apache Airflow
-   - Resource: [Airflow Tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html)
-
-3. Apache Kafka
-   - Resource: [Kafka Quickstart](https://kafka.apache.org/quickstart)
-
-4. Docker
-   - Resource: [Docker Get Started Guide](https://docs.docker.com/get-started/)
-
-5. Kubernetes
-   - Resource: [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-
-6. Apache Hadoop
-   - Resource: [Hadoop Tutorial](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html)
-
-7. Apache Hive
-   - Resource: [Hive Tutorials](https://cwiki.apache.org/confluence/display/Hive/Tutorial)
-
-8. Apache Flink
-   - Resource: [Flink Tutorials](https://nightlies.apache.org/flink/flink-docs-master/docs/try-flink/datastream/)
-
-9. dbt (data build tool)
-   - Resource: [dbt Documentation](https://docs.getdbt.com/docs/introduction)
-
-10. Apache NiFi
-    - Resource: [NiFi User Guide](https://nifi.apache.org/docs/nifi-docs/html/user-guide.html)
+1. Apache Spark [Apache Spark Tutorial](https://spark.apache.org/docs/latest/quick-start.html)
+2. Apache Airflow [Airflow Tutorial](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html)
+3. Apache Kafka [Kafka Quickstart](https://kafka.apache.org/quickstart)
+4. Docker [Docker Get Started Guide](https://docs.docker.com/get-started/)
+5. Kubernetes [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+6. Apache Hadoop [Hadoop Tutorial](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html)
+7. Apache Hive [Hive Tutorials](https://cwiki.apache.org/confluence/display/Hive/Tutorial)
+8. Apache Flink [Flink Tutorials](https://nightlies.apache.org/flink/flink-docs-master/docs/try-flink/datastream/)
+9. dbt (data build tool) [dbt Documentation](https://docs.getdbt.com/docs/introduction)
+10. Apache NiFi [NiFi User Guide](https://nifi.apache.org/docs/nifi-docs/html/user-guide.html)
 
 ### Data Analyst Tools
 
-1. Microsoft Excel
-   - Resource: [Excel for Data Analysis](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
-
-2. SQL
-   - Resource: [SQL Tutorial](https://www.w3schools.com/sql/)
-
-3. Tableau
-   - Resource: [Tableau Tutorials](https://www.tableau.com/learn/training)
-
-4. Power BI
-   - Resource: [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
-
-5. Google Analytics
-   - Resource: [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
-
-6. SAS
-   - Resource: [SAS Tutorials](https://www.sas.com/en_us/training/tutorial.html)
-
-7. SPSS
-   - Resource: [SPSS Tutorials](https://www.spss-tutorials.com/)
-
-8. Looker
-   - Resource: [Looker Documentation](https://docs.looker.com/)
-
-9. Google Data Studio
-   - Resource: [Data Studio Tutorial](https://support.google.com/datastudio/answer/6283323?hl=en)
-
-10. Qlik Sense
-    - Resource: [Qlik Sense Tutorials](https://help.qlik.com/en-US/sense/February2022/Content/Sense_Helpsites/Tutorials/Tutorials.htm)
+1. Microsoft Excel [Excel for Data Analysis](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+2. SQL [SQL Tutorial](https://www.w3schools.com/sql/)
+3. Tableau [Tableau Tutorials](https://www.tableau.com/learn/training)
+4. Power BI [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
+5. Google Analytics [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
+6. Looker [Looker Documentation](https://docs.looker.com/)
+7. Google Data Studio [Data Studio Tutorial](https://support.google.com/datastudio/answer/6283323?hl=en)
+8. Qlik Sense [Qlik Sense Tutorials](https://help.qlik.com/en-US/sense/February2022/Content/Sense_Helpsites/Tutorials/Tutorials.htm)
 
 ## Books
 
