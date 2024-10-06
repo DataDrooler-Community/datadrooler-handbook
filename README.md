@@ -1,4 +1,4 @@
-# Datadrooler Resources Handbook
+# DataDrooler Resources Handbook
 A collection of Data Science/ Data Engineering / Data Analysis Resources
 DataDrooler Community is a place where Early-Career Data Professionals including Data Engineers, Data Scientists, and AI Engineers can discover meaningful projects and connect with brilliant collaborators to enhance data skills & make impact.
 
