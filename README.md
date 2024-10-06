@@ -73,6 +73,13 @@ If you wish to contribute to this repository, please raise a PR.
 7. Google Data Studio [Data Studio Tutorial](https://support.google.com/datastudio/answer/6283323?hl=en)
 8. Qlik Sense [Qlik Sense Tutorials](https://help.qlik.com/en-US/sense/February2022/Content/Sense_Helpsites/Tutorials/Tutorials.htm)
 
+## Best Practices
+
+1. Coding Best Practices [Guidelines](https://www.datacamp.com/tutorial/coding-best-practices-and-guidelines)
+2. Create a Github Repository [Github Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+3. Git for version control [Git](https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/)
+
+
 ## Books
 
 ### Data Science
@@ -94,7 +101,7 @@ If you wish to contribute to this repository, please raise a PR.
 - ["Practical Statistics for Data Scientists" by Peter Bruce & Andrew Bruce](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
 
 
-### Websites/Blogs
+## Websites/Blogs
 - [Towards Data Science](https://towardsdatascience.com/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
