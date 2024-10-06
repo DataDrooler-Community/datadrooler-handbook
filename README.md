@@ -17,8 +17,7 @@ If you wish to contribute to this repository, please raise a PR.
 
 ### Free APIs
 - [Public APIs](https://github.com/public-apis/public-apis)
-- [RapidAPI](https://rapidapi.com/collection/list-of-free-apis)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [NASA API](https://api.nasa.gov/)
 - [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api)
 
